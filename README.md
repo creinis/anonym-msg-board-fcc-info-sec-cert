@@ -2,8 +2,8 @@
 
 ###### Technologies:
 <p align="center">
-<img src="https://img.icons8.com/color/75/000000/nodejs.png" width="75" height="75" alt="Node.js" style="margin: 10px 15px 0 15px;" />
-<img src="https://img.icons8.com/color/75/000000/express.png" width="75" height="75" alt="Express.js" style="margin: 10px 15px 0 15px;" />
+<img src="https://nodejs.org/static/images/logo.svg" height="35" alt="Node.js" style="margin: 10px 15px 0 15px;" />
+<img src="https://expressjs.com/images/express-facebook-share.png" height="35" alt="Express" style="margin: 10px 15px 0 15px;" />
 <img src="https://img.icons8.com/color/75/000000/mongodb.png" width="75" height="75" alt="MongoDB" style="margin: 10px 15px 0 15px;" />
 <img src="https://img.icons8.com/color/75/000000/javascript.png" width="75" height="75" alt="JavaScript" style="margin: 10px 15px 0 15px;" />
 <img src="https://img.icons8.com/color/75/000000/bootstrap.png" width="75" height="75" alt="Bootstrap" style="margin: 10px 15px 0 15px;" />
@@ -22,7 +22,7 @@ https://anonymous-message-board.freecodecamp.rocks/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/anonymous-message-board.git
+   git clone https://github.com/creinis/anonym-msg-board-fcc-info-sec-cert.git
    cd anonymous-message-board
    ```
 
