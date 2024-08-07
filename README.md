@@ -2,7 +2,7 @@
 
 ###### Technologies:
 <p align="center">
-<img src="https://nodejs.org/static/images/logo.svg" height="35" alt="Node.js" style="margin: 0 15px 0 15px;" />
+<img src="https://nodejs.org/static/images/logo.svg" height="35" alt="Node.js"  />
 <img src="https://expressjs.com/images/express-facebook-share.png" height="35" alt="Express" style="margin: 10px 15px 0 15px;" />
 <img src="https://img.icons8.com/color/75/000000/mongodb.png" width="75" height="75" alt="MongoDB" style="margin: 10px 15px 0 15px;" />
 <img src="https://img.icons8.com/color/75/000000/javascript.png" width="75" height="75" alt="JavaScript" style="margin: 10px 15px 0 15px;" />
